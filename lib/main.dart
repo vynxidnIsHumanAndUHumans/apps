@@ -67,8 +67,8 @@ class hal1 extends StatelessWidget {
 
 
 class hal2 extends StatelessWidget {
-   final String AUTHOR = "VYNXIDN";
-   final String AUTHOR2 = "UNKONW1";
+   final String AUTHOR = "vyn";
+   final String AUTHOR2 = "kholilur rohman";
 
   @override
   Widget build(BuildContext context){

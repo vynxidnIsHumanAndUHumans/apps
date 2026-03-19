@@ -67,8 +67,8 @@ class hal1 extends StatelessWidget {
 
 
 class hal2 extends StatelessWidget {
-   final String AUTHOR = "vyn";
-   final String AUTHOR2 = "kholilur rohman";
+   final String AUTHOR = "vyn npm 2024 122 0025 ";
+   final String AUTHOR2 = "kholilur rohman npm 2024 122 0059";
 
   @override
   Widget build(BuildContext context){
@@ -180,7 +180,7 @@ class hal3 extends StatelessWidget {
 
 
 
-
+//hasil gpt
 class homevip extends StatelessWidget {
 
   final String nama = "NASABAH VIP";
